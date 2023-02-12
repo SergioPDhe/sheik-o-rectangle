@@ -2,6 +2,14 @@
 This is a fork of Arte's excellent pico-rectangle firmware with specific changes made for Melee Sheik.
 If you have any money or praise to give, they should certainly go to Arte and not me. You are welcome to use this firmware for personal use (more details under "legal inormation and license").
 
+## List of changes from original
+- all diagonal upB angles are extended by default (no need to hold B) and have been fully extended to max allowable length
+- "normal" diagonal upB angles are noe accessible by holding B
+
+## Some changes planned
+- Shortening the b-held upB angles to allow for up-B shortening
+- Potentially changing the SOCD to neutral to avoid getting "locked out" of direction inputs when mashing/wiggling
+
 
 # Frame1/B0XX layout style public-source digital controller software for the Raspberry Pi Pico (v1.0)
 
