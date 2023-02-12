@@ -49,11 +49,11 @@
 #define MODX_D_CL_X 0.85
 #define MODX_D_CL_Y 0.525
 
-#define MODX_D_CU_X 0.7375
-#define MODX_D_CU_Y 0.5375
+#define MODX_D_CU_X 0.8
+#define MODX_D_CU_Y 0.5875
 
-#define MODX_D_CR_X 0.6375
-#define MODX_D_CR_Y 0.5375
+#define MODX_D_CR_X 0.75
+#define MODX_D_CR_Y 0.65
 
 
 // extended upB angles
@@ -96,7 +96,7 @@
 #define MODY_DIAG_Y 0.9125
 
 #define MODY_D_CD_X 0.45
-#define MODY_D_CD_Y 0.875
+#define MODY_D_CD_Y 0.9125
 
 #define MODY_D_CL_X 0.525
 #define MODY_D_CL_Y 0.85
@@ -104,8 +104,8 @@
 #define MODY_D_CU_X 0.5875
 #define MODY_D_CU_Y 0.8
 
-#define MODY_D_CR_X 0.5875
-#define MODY_D_CR_Y 0.7125
+#define MODY_D_CR_X 0.65
+#define MODY_D_CR_Y 0.75
 
 // extended upB angles///////////////////////
 #define MODY_DIAG_B_X 0.3125
