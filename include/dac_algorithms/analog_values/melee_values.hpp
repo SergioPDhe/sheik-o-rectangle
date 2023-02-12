@@ -40,36 +40,37 @@
 #define MODX_V_B_Y 0.5375
 
 // upB angles
-#define MODX_DIAG_X 0.7375
-#define MODX_DIAG_Y 0.3125
+#define MODX_DIAG_X 0.9125
+#define MODX_DIAG_Y 0.3875
 
-#define MODX_D_CD_X 0.7
-#define MODX_D_CD_Y 0.3625
+#define MODX_D_CD_X 0.9125
+#define MODX_D_CD_Y 0.45
 
-#define MODX_D_CL_X 0.7875
-#define MODX_D_CL_Y 0.4875
+#define MODX_D_CL_X 0.85
+#define MODX_D_CL_Y 0.525
 
-#define MODX_D_CU_X 0.7
-#define MODX_D_CU_Y 0.5125
+#define MODX_D_CU_X 0.7375
+#define MODX_D_CU_Y 0.5375
 
-#define MODX_D_CR_X 0.6125
-#define MODX_D_CR_Y 0.525
+#define MODX_D_CR_X 0.6375
+#define MODX_D_CR_Y 0.5375
+
 
 // extended upB angles
-#define MODX_DIAG_B_X 0.9125
-#define MODX_DIAG_B_Y 0.3875
+#define MODX_DIAG_B_X 0.7375
+#define MODX_DIAG_B_Y 0.3125
 
-#define MODX_D_CD_B_X 0.9125
-#define MODX_D_CD_B_Y 0.45
+#define MODX_D_CD_B_X 0.7
+#define MODX_D_CD_B_Y 0.3625
 
-#define MODX_D_CL_B_X 0.85
-#define MODX_D_CL_B_Y 0.525
+#define MODX_D_CL_B_X 0.7875
+#define MODX_D_CL_B_Y 0.4875
 
-#define MODX_D_CU_B_X 0.7375
-#define MODX_D_CU_B_Y 0.5375
+#define MODX_D_CU_B_X 0.7
+#define MODX_D_CU_B_Y 0.5125
 
-#define MODX_D_CR_B_X 0.6375
-#define MODX_D_CR_B_Y 0.5375
+#define MODX_D_CR_B_X 0.6125
+#define MODX_D_CR_B_Y 0.525
 
 // wavedash
 #define MODX_D_SHIELD_X 0.6375
@@ -91,36 +92,36 @@
 #define MODY_V_B_Y 0.7375
 
 // upB angles///////////////////////////////
-#define MODY_DIAG_X 0.3125
-#define MODY_DIAG_Y 0.7375
+#define MODY_DIAG_X 0.3875
+#define MODY_DIAG_Y 0.9125
 
-#define MODY_D_CD_X 0.3625
-#define MODY_D_CD_Y 0.7
+#define MODY_D_CD_X 0.45
+#define MODY_D_CD_Y 0.875
 
-#define MODY_D_CL_X 0.4875
-#define MODY_D_CL_Y 0.7875
+#define MODY_D_CL_X 0.525
+#define MODY_D_CL_Y 0.85
 
-#define MODY_D_CU_X 0.5125
-#define MODY_D_CU_Y 0.7
+#define MODY_D_CU_X 0.5875
+#define MODY_D_CU_Y 0.8
 
-#define MODY_D_CR_X 0.6375
-#define MODY_D_CR_Y 0.7625
+#define MODY_D_CR_X 0.5875
+#define MODY_D_CR_Y 0.7125
 
 // extended upB angles///////////////////////
-#define MODY_DIAG_B_X 0.3875
-#define MODY_DIAG_B_Y 0.9125
+#define MODY_DIAG_B_X 0.3125
+#define MODY_DIAG_B_Y 0.7375
 
-#define MODY_D_CD_B_X 0.45
-#define MODY_D_CD_B_Y 0.875
+#define MODY_D_CD_B_X 0.3625
+#define MODY_D_CD_B_Y 0.7
 
-#define MODY_D_CL_B_X 0.525
-#define MODY_D_CL_B_Y 0.85
+#define MODY_D_CL_B_X 0.4875
+#define MODY_D_CL_B_Y 0.7875
 
-#define MODY_D_CU_B_X 0.5875
-#define MODY_D_CU_B_Y 0.8
+#define MODY_D_CU_B_X 0.5125
+#define MODY_D_CU_B_Y 0.7
 
-#define MODY_D_CR_B_X 0.5875
-#define MODY_D_CR_B_Y 0.7125
+#define MODY_D_CR_B_X 0.6375
+#define MODY_D_CR_B_Y 0.7625
 
 // wavedash//////////////////////////////////////////
 #define MODY_D_SHIELD_BANPARADASH_X 0.475
