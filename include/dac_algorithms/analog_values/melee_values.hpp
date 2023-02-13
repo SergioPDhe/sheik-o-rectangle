@@ -30,7 +30,7 @@
 #define MODX_H_Y 0.0
 
 #define MODX_V_X 0.0
-#define MODX_V_Y 0.5375
+#define MODX_V_Y 0.5125
 
 // side-b nerf
 #define MODX_H_B_X 0.6625
