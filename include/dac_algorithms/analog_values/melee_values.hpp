@@ -43,8 +43,8 @@
 #define MODX_DIAG_X 0.9125
 #define MODX_DIAG_Y 0.3875
 
-#define MODX_D_CD_X 0.9125
-#define MODX_D_CD_Y 0.45
+#define MODX_D_CD_X 0.8875
+#define MODX_D_CD_Y 0.4375
 
 #define MODX_D_CL_X 0.85
 #define MODX_D_CL_Y 0.525
@@ -95,8 +95,8 @@
 #define MODY_DIAG_X 0.3875
 #define MODY_DIAG_Y 0.9125
 
-#define MODY_D_CD_X 0.45
-#define MODY_D_CD_Y 0.9125
+#define MODY_D_CD_X 0.4375
+#define MODY_D_CD_Y 0.8875
 
 #define MODY_D_CL_X 0.525
 #define MODY_D_CL_Y 0.85
