@@ -17,7 +17,7 @@
 #define VERTICAL_Y 1.0
 
 #define DIAGONAL_X 0.7
-#define DIAGONAL_Y 0.7
+#define DIAGONAL_Y 0.7125
 
 // shield drop
 #define DIAG_SHIELD_X 0.7
