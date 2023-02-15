@@ -57,7 +57,7 @@
 
 
 // shortened upB angles
-#define MODX_DIAG_B_X 0.5 // results in a shortened horizontal upB
+#define MODX_DIAG_B_X 0.5125 // results in a shortened horizontal upB
 #define MODX_DIAG_B_Y 0.0125
 
 #define MODX_D_CD_B_X 0.525
