@@ -6,10 +6,10 @@ If you have any money or praise to give, they should certainly go to Arte and no
 - all diagonal upB angles are extended by default (no need to hold B) and have been fully extended to max allowable length
 - "normal" diagonal upB angles are now accessible by holding B
 - The b-held upB angles are now shortened
+- Added optional Neutral SOCD
 
 ## Some changes planned
-
-- Potentially changing the SOCD to neutral to avoid getting "locked out" of direction inputs when mashing/wiggling
+- None for the time being
 
 
 # Frame1/B0XX layout style public-source digital controller software for the Raspberry Pi Pico (v1.0)
