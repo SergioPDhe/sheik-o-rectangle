@@ -4,10 +4,11 @@ If you have any money or praise to give, they should certainly go to Arte and no
 
 ## List of changes from original
 - all diagonal upB angles are extended by default (no need to hold B) and have been fully extended to max allowable length
-- "normal" diagonal upB angles are noe accessible by holding B
+- "normal" diagonal upB angles are now accessible by holding B
+- The b-held upB angles are now shortened
 
 ## Some changes planned
-- Shortening the b-held upB angles to allow for up-B shortening
+
 - Potentially changing the SOCD to neutral to avoid getting "locked out" of direction inputs when mashing/wiggling
 
 
